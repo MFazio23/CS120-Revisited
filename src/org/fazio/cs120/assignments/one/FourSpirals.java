@@ -8,11 +8,9 @@ import aLibrary.DrawingTool;
  */
 public class FourSpirals {
 
-	//AWindow window;
 	aLibrary.DrawingTool tool;
 	
 	public FourSpirals() {
-		//this.window = new AWindow(10, 10, 200, 200);
 		this.tool = new DrawingTool();
 		this.tool.draw();
 		this.tool.moveForwardBy(40);
