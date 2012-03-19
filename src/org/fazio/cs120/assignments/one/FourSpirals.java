@@ -8,7 +8,7 @@ import aLibrary.DrawingTool;
  */
 public class FourSpirals {
 
-	aLibrary.DrawingTool tool;
+	DrawingTool tool;
 	
 	public FourSpirals() {
 		this.tool = new DrawingTool();
